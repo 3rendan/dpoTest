@@ -1,0 +1,11 @@
+{
+  "name": "dpotesting",
+  "version": "1.0.0",
+  "description": "Testing environment for functions for digital.provath.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
